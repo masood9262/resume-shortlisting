@@ -1,0 +1,15 @@
+[theme]
+base = "light"
+
+# Backgrounds
+backgroundColor = "#DFF6FF"        # light blue background
+secondaryBackgroundColor = "#B6E3F9"  # slightly deeper light blue
+
+# Text Colors
+textColor = "#003F5C"              # deep blue text
+primaryColor = "#2ECC71"           # green accents on sliders, checkboxes, etc.
+
+# Buttons
+[theme.button]
+backgroundColor = "#FFD60A"        # yellow buttons
+textColor = "#003F5C"              # dark blue text on button
